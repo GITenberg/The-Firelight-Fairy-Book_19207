@@ -1,0 +1,32 @@
+_repo: The-Firelight-Fairy-Book_19207
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beston, Henry
+    alias: Sheahan, Henry Beston
+    birthdate: 1888
+    deathdate: 1968
+    gutenberg_agent_id: '4320'
+    url: http://www.gutenberg.org/2009/agents/4320
+description: ''
+gutenberg_bookshelf: Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2006-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+tableOfContents: The Queen of Lantern Land -- The adventures of Florian -- The seller
+  of dreams -- The treasure castle -- Prince Sneeze -- Marianna -- The lost half-hour
+  -- The enchanted elm -- The bird-boy -- The master mariner -- The marvelous dog
+  and the wonderful cat -- The shepherd of clouds -- The city under the sea.
+title: The Firelight Fairy Book
+url: http://www.gutenberg.org/ebooks/19207
